@@ -1,0 +1,17 @@
+/*
+This Code Example Commands For The Developers Bot And Contributor
+/*
+
+
+
+
+module.exports = {
+  config: {
+    name: "info-backup",
+    aliases: ["backupinfo"],
+    description: "Info Of Your Backups Server",
+    usage: "info-backup",
+  },
+  run: async (bot, message, args) => {
+  }
+}
