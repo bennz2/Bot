@@ -21,10 +21,6 @@
 * Modular Discord bot built entirely on pure JavaScript using Discord.JS.
 * Modlogs for all the actions.
 
-### Invite Bot
-* https://discord.com/oauth2/authorize?client_id=855778204214886440&scope=bot&permissions=805315646
-
-
 ### END STEP
 ```c
 npm install
