@@ -1,5 +1,5 @@
 # Ajds Bots
-[![GitHub license](https://img.shields.io/github/license/Lynxx21/Discord-Bots-Reverse.git)](https://github.com/Lynxx21/Discord-Bots-Reverse.git)
+[![GitHub Commits](https://img.shields.io/github/last-commit/Lynxx21/Ajdsbots-reverse?label=Last%20Commits)](https://github.com/Lynxx21/Ajdsbots-reverse.git)
 
 ## Example Future
 
