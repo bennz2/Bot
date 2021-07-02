@@ -1,6 +1,7 @@
 # Ajds Bots
 [![GitHub Commits](https://img.shields.io/github/last-commit/Lynxx21/Ajdsbots-reverse?label=Last%20Commits)](https://github.com/Lynxx21/Ajdsbots-reverse.git)
-[!GitHub repo size](https://img.shields.io/github/repo-size/Lynxx21/Ajdsbots-reverse)
+![GitHub repo size](https://img.shields.io/github/repo-size/Lynxx21/Ajdsbots-reverse)
+
 
 ## Example Future
 
