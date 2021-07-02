@@ -189,7 +189,7 @@ bot.on("message", async (message) => {
   if (!sChannel) return;
   if (message.author.bot) return;
   if (message.channel.id != sChannel) return;
-  //if (message.content === "test") return message.inlineReply(`yo`)
+ 
   if (!message.content) return;
   message.channel.startTyping();
   if (!message.content) return message.lineReply("Please say something.");
