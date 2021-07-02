@@ -25,16 +25,19 @@
 * Original Author: `Manav Garg`
 * Remake Author : `Lynxx21`
 
-# Features 
-* 😎 Images 
-* 😹 Fun 
-* 🤖 Moderation
-* 👾 Smart Bot
-* ⛔️ NSFW
-* 🎉 Giveaway
-* 👩🏻‍🏭 Backups Discord Server
-* 🧲 Suggest
-* Other Features
+
+#### Features
+| Features | Status | Note
+|---|---|---|
+| `😎 Images ` | `✅` | Stable |
+| `😹 Fun ` | `✅` | Stable |
+| `🤖 Moderation` | `✅` | Stable |
+| `👾 Smart Bot` | `✅` | Stable |
+| `⛔️ NSFW` | `✅` | Warning Dont Use This commands |
+| `🎉 Giveaway` | `✅` | Stable |
+| `👩🏻‍🏭 Backups Discord Server` |  `✅` | Stable |
+| `🧲 Suggest` |  `✅` | Stable |
+| `®️ Other Features` |  `✅` | Stable |
 
 ### END STEP
 ```diff
