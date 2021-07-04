@@ -1,35 +1,48 @@
 # Ajds Bots
-[![GitHub license](https://img.shields.io/github/license/Lynxx21/Discord-Bots-Reverse.git)](https://github.com/Lynxx21/Discord-Bots-Reverse.git)
+[![GitHub Commits](https://img.shields.io/github/last-commit/Lynxx21/Ajdsbots-reverse?label=Last%20Commits)](https://github.com/Lynxx21/Ajdsbots-reverse.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/Lynxx21/Ajdsbots-reverse?label=Repo%20Size)
+![GitHub](https://img.shields.io/github/license/Lynxx21/Ajdsbots-reverse?label=License)
+#
+![Alt Text](photo/Banner.gif)
+
+## Language
+![GitHub top language](https://img.shields.io/github/languages/top/Lynxx21/Ajdsbots-reverse?style=for-the-badge)
 
 ## Example Future
-
 ![Alt Text](photo/Example.gif)
 
 
-#### Requirements & Steps
-* This Project
-* Node.js, Discord.js Installed
-* Discord Bot Token, Prefix
-* Edit the `config.js and owner.json` file
+#### Requirements
+* Node Js Stable Version
+* Text Editor
+
+## Steps
+* Changes Token , Prefix Of The Bot In config.js 
+* Change Owner Id In Owner.json
 
 
-#### Features & Info
+## Author
 * Original Author: `Manav Garg`
 * Remake Author : `Lynxx21`
-* Moderation Bot built to manage discord servers.
-* This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
-* Modular Discord bot built entirely on pure JavaScript using Discord.JS.
-* Modlogs for all the actions.
 
-### Invite Bot
-* https://discord.com/oauth2/authorize?client_id=855778204214886440&scope=bot&permissions=805315646
 
+#### Features
+| Features | Status | Note
+|---|---|---|
+| `😎 Images ` | `✅` | Stable |
+| `😹 Fun ` | `✅` | Stable |
+| `🤖 Moderation` | `✅` | Stable |
+| `👾 Smart Bot` | `✅` | Stable |
+| `⛔️ NSFW` | `✅` | Warning Dont Use This commands |
+| `🎉 Giveaway` | `✅` | Stable |
+| `👩🏻‍🏭 Backups Discord Server` |  `✅` | Stable |
+| `🧲 Suggest` |  `✅` | Stable |
+| `®️ Other Features` |  `✅` | Stable |
 
 ### END STEP
-```c
-npm install
-node index.js
-
+```diff
++ npm install
+- node index.js
 ```
 
 
