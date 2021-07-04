@@ -14,6 +14,7 @@ module.exports = {
       host: args[0],
       port: args[1],
     };
+    let bicon = bot.user.displayAvatarURL; //bot avatar
     var s;
     query(options, function (error, response) {
       if (error) {
@@ -23,23 +24,22 @@ module.exports = {
 
         const logMessage = {
           embed: {
-            title: "Samp Stats",
+            title: `${response["hostname"]}`,
             color: embedColor,
             fields: [
-              { name: "**Server Name**", value: response["hostname"] },
               { name: "**IP**", value: args[0] },
               { name: "**Gamemode**", value: response["gamemode"] },
               { name: "**Language**", value: response["mapname"] },
-              { name: "**Status**", value: "<a:black:856916288449806346>Online" },
+              { name: "**Version**", value: `${response["rules"].version}` },
+              { name: "**Website**", value: `${response["rules"].weburl}` },
+              { name: "**Map**", value: `${response["rules"].mapname}` },
               { name: "**Players**", value: `${response["online"]}/${response["maxplayers"]}` },
               // { name: "**Website**", value: `${result.rules.weburl}` },
             ],
-            thumbnail: {
-              url: "https://cdn.discordapp.com/attachments/855998243238182914/856917708250677248/instagram_profile_image.png",
-            },
+            thumbnail: `${bot.user.displayAvatarURL}`,
             timestamp: new Date(),
             footer: {
-              text: "Ajds Bots",
+              text: `This command requested by ${message.author.username}#${message.author.discriminator}`,
             },
           },
         };
